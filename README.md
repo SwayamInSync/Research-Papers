@@ -13,12 +13,12 @@ Feel free to explore the repository and use the code as a reference or starting 
 
 | Paper                                           | Link |
 | ----------------------------------------------- | ---- |
-| Attention is all you need                       |      |
-| InceptionNet                                    |      |
-| LeNet                                           |      |
-| ResNet                                          |      |
-| style transfer                                  |      |
-| VggNet                                          |      |
-| Word2Vec                                        |      |
-| Playing Atari with Deep Reinforceme nt Learning |      |
+| Attention is all you need                       |https://github.com/practice404/Research-Papers/tree/main/Attention%20is%20all%20you%20need|
+| InceptionNet                                    |https://github.com/practice404/Research-Papers/tree/main/InceptionNet|
+| LeNet                                           |https://github.com/practice404/Research-Papers/tree/main/LeNet|
+| ResNet                                          |https://github.com/practice404/Research-Papers/tree/main/ResNet|
+| style transfer                                  |https://github.com/practice404/Research-Papers/tree/main/style%20transfer|
+| VggNet                                          |https://github.com/practice404/Research-Papers/tree/main/VggNet|
+| Word2Vec                                        |https://github.com/practice404/Research-Papers/tree/main/Word2Vec|
+| Playing Atari with Deep Reinforcement Learning |https://github.com/practice404/Research-Papers/tree/main/Playing%20Atari%20with%20Deep%20Reinforceme%20nt%20Learning|
 
