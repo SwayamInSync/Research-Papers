@@ -20,4 +20,4 @@ Feel free to explore the repository and use the code as a reference or starting 
 | [Very Deep Convolutional Networks for Large-Scale Image Recognition (VggNet)](https://github.com/practice404/Research-Papers/tree/main/VggNet) | [Paper](https://arxiv.org/abs/1409.1556)                     |
 | [Efficient Estimation of Word Representations in Vector Space (Word2Vec)](https://github.com/practice404/Research-Papers/tree/main/Word2Vec) | [Paper](https://arxiv.org/abs/1301.3781)                     |
 | [Playing Atari with Deep Reinforcement Learning (DQN)](https://github.com/practice404/Research-Papers/tree/main/Playing%20Atari%20with%20Deep%20Reinforceme%20nt%20Learning) | [Paper](https://arxiv.org/abs/1312.5602)                     |
-| [MathPrompter: Mathematical Reasoning using Large Language Models](https://huggingface.co/spaces/bigcode/Reasoning-with-StarCoder) | [Paper](https://arxiv.org/abs/1301.3781)|
+| [MathPrompter: Mathematical Reasoning using Large Language Models](https://huggingface.co/spaces/bigcode/Reasoning-with-StarCoder) | [Paper](https://arxiv.org/abs/2303.05398)|
