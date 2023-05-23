@@ -11,14 +11,13 @@ Feel free to explore the repository and use the code as a reference or starting 
 
 ## Implemented Papers
 
-| Paper                                           | Link |
-| ----------------------------------------------- | ---- |
-| Attention is all you need                       |https://github.com/practice404/Research-Papers/tree/main/Attention%20is%20all%20you%20need|
-| InceptionNet                                    |https://github.com/practice404/Research-Papers/tree/main/InceptionNet|
-| LeNet                                           |https://github.com/practice404/Research-Papers/tree/main/LeNet|
-| ResNet                                          |https://github.com/practice404/Research-Papers/tree/main/ResNet|
-| style transfer                                  |https://github.com/practice404/Research-Papers/tree/main/style%20transfer|
-| VggNet                                          |https://github.com/practice404/Research-Papers/tree/main/VggNet|
-| Word2Vec                                        |https://github.com/practice404/Research-Papers/tree/main/Word2Vec|
-| Playing Atari with Deep Reinforcement Learning |https://github.com/practice404/Research-Papers/tree/main/Playing%20Atari%20with%20Deep%20Reinforceme%20nt%20Learning|
-
+| Paper                                                        | Paper                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Attention is all you need](https://github.com/practice404/Research-Papers/tree/main/Attention%20is%20all%20you%20need) | [Paper](https://arxiv.org/abs/1706.03762)                    |
+| [Going Deeper with Convolutions (InceptionNet)](https://github.com/practice404/Research-Papers/tree/main/InceptionNet) | [Paper](https://arxiv.org/abs/1409.4842)                     |
+| [GradientBased Learning Applied to Document Recognition (LeNet)](https://github.com/practice404/Research-Papers/tree/main/LeNet) | [Paper](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf) |
+| [Deep Residual Learning for Image Recognition (ResNet)](https://github.com/practice404/Research-Papers/tree/main/ResNet) | [Paper](https://arxiv.org/abs/1512.03385)                    |
+| [Image Style Transfer Using Convolutional Neural Networks](https://github.com/practice404/Research-Papers/tree/main/style%20transfer) | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) |
+| [Very Deep Convolutional Networks for Large-Scale Image Recognition (VggNet)](https://github.com/practice404/Research-Papers/tree/main/VggNet) | [Paper](https://arxiv.org/abs/1409.1556)                     |
+| [Efficient Estimation of Word Representations in Vector Space (Word2Vec)](https://github.com/practice404/Research-Papers/tree/main/Word2Vec) | [Paper](https://arxiv.org/abs/1301.3781)                     |
+| [Playing Atari with Deep Reinforcement Learning (DQN)](https://github.com/practice404/Research-Papers/tree/main/Playing%20Atari%20with%20Deep%20Reinforceme%20nt%20Learning) | [Paper](https://arxiv.org/abs/1312.5602)                     |
