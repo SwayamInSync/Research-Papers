@@ -1,4 +1,4 @@
-Here are the notations used in the FlashAttention algorithm (Refer to the original paper):
+## Notations (Refer to the original paper):
 
 - **Q:** The query matrix. It is a matrix of size N×d, where N is the number of tokens in the input sequence and d is the dimension of each token.
 - **K:** The key matrix. It is a matrix of size N×d, where N is the number of tokens in the input sequence and d is the dimension of each token.
@@ -11,3 +11,7 @@ Here are the notations used in the FlashAttention algorithm (Refer to the origin
 - **p_ij:** The exponential of each entry in Sij−mi. It is a matrix of size Br×Bc.
 - **l_i:** The row sums of pij. It is a vector of size Br.
 - **o_i:** The output matrix Oi=diag(li)⋅PiVj. It is a matrix of size Br×Bc.
+
+
+
+> Todo: Make it more vectorized
