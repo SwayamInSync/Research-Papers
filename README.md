@@ -23,3 +23,4 @@ Feel free to explore the repository and use the code as a reference or starting 
 | [MathPrompter: Mathematical Reasoning using Large Language Models](https://huggingface.co/spaces/bigcode/Reasoning-with-StarCoder) | [Paper](https://arxiv.org/abs/2303.05398)                    |
 | [Improving Language Understanding by Generative Pre-Training (GPT2)](https://github.com/practice404/Research-Papers/tree/main/GPT2) | [Paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) |
 | [Fast Transformer Decoding: One Write-Head is All You Need (MQA)](https://github.com/practice404/Research-Papers/tree/main/MQA) | [Paper](https://arxiv.org/abs/1911.02150)                    |
+| [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://github.com/practice404/Research-Papers/tree/main/FlashAttention) | [Paper](https://arxiv.org/abs/2205.14135)                    |
